@@ -1,0 +1,1 @@
+﻿Start-Process -WindowStyle Hidden powershell.exe -Args '-File', '.\win_rar.ps1'
